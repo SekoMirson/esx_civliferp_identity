@@ -1,16 +1,11 @@
 # fxserver-esx_identity
 FXServer ESX Identity (Modified Registration)
-By KrizFrost
+By SekoMirson 
 
 # Credits
-* KrizFrost for development
+* SekoMirson for development
 * Luzox for assisting in code and designing mockup design
 * Original Creator of esx_identity for the base of esx_identity
-[REQUIREMENTS]
-
-* Dependencies For Full Functionality
-  * esx_policejob => https://github.com/ESX-Org/esx_policejob
-  * esx_society => https://github.com/ESX-Org/esx_society
 
 [INSTALLATION]
 
@@ -44,8 +39,7 @@ Notice:
 `Drop the characters table, it is no longer used`
 
 Credits:
-`Script Created By: ArkSeyonet @Ark`
+`Script Created By: SekoMirson @SekoMirson`
 
-Licensing:
-`This script uses GNU GPLv3`
-
+Language:
+`Turkish`
